@@ -1,0 +1,16 @@
+/store-fcm-token/*    /store-fcm-token   200
+/login/*    /login   200
+/profile/*    /profile   200
+/signIn/*    /signIn   200
+/api/updateUserName/*    /api/updateUserName   200
+/api/getFriendList/*    /api/getFriendList   200
+/api/activeFriendList/*    /api/activeFriendList   200
+/api/recivedRequestList/*    /api/recivedRequestList   200
+/api/accept-request/*    /api/accept-request   200
+/api/addFriend/*    /api/addFriend   200
+/api/findFriends/*    /api/findFriends   200
+/api/remove_from_friendList/*    /api/remove_from_friendList   200
+/start/active/chat/*    /start/active/chat/:id   200
+/upload/profile-picture/*    /upload/profile-picture/:authId   200
+/send/message/*    /send/message/   200
+/getChat/history/*    /getChat/history   200
