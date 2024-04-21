@@ -23,6 +23,9 @@
     "web-push": "^3.6.6"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js"m
+      "build": "npm install"
   }
+ 
+
 }
